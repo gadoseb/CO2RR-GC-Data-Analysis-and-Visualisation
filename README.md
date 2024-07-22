@@ -1,8 +1,8 @@
 # CO2RR-GC-Data-Analysis
 GC Data Analysis
 Data analysis and elaboration from the Agilent GC instrument in place. Here is a list of the different versions uploaded here:
-1. Folder "230222 ECOF-027-2_CuO Galvanostatic_2nd day": the Notebook gives a comprehensive table of the product mixture. To use it, the GC_Data_collection.ipynb has to be stored in the same folder of the files to be analysed and the final computed table will be saved as GC_outputs.xlsx
-2. Folder "230418 EF-1-11_Galvanostatic": the Notebook performs all the data analysis from the GC_output.xlsx data. The code calculates the partial current densities and the Faraday efficiencies from the product mixture. The Notebook has to be copied and pasted in the same folder of the data. The output is an output.xlsx file which contains three worksheets:
+1. Folder "Files_Example_1": the Notebook gives a comprehensive table of the product mixture. To use it, the GC_Data_collection.ipynb has to be stored in the same folder of the files to be analysed and the final computed table will be saved as GC_outputs.xlsx
+2. Folder "Files_Example_2": the Notebook performs all the data analysis from the GC_output.xlsx data. The code calculates the partial current densities and the Faraday efficiencies from the product mixture. The Notebook has to be copied and pasted in the same folder of the data. The output is an output.xlsx file which contains three worksheets:
 
       a. Data Analysis, table with the following information: product mix areas, Current Density (mAcm-2), CO2 flow rate (mL/min), Ji (mAcm-2), FEi (%).
       
